@@ -1,2 +1,3 @@
 # A.U.D.I.T
 3D Print Quality Control Device
+A.U.D.I.T, standing for Automated Density and Integrity Tester, is a an ultrasonic NDT scanner for 3D prints. It works by sending ultrasonic sound waves through a 3d print that is situated on a fixture plate wthin a tank. The device then uses a level sensor and a camera to determine the height of the material and how much water should be dispensed to submerge the material, then  pumps push waters through jets at the the base of the tanks from a resevoir to fill the tank.It then tracks telemetry of how much sound travel and where it travelled to map put variations in density. This is great for 3d prints that are made for rigorous use that you need to ensure can holds up to whatever standards you hold it to.
